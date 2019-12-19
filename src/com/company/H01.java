@@ -8,6 +8,7 @@ public class H01 {
         // H01 INTRODUCTIE JAVA
 
         // OPDRACHT 1.1
+
         System.out.println("\nOpdracht 1.1\n");
         System.out.println("Java is Object Georiënteerd");
         System.out.println("Java is strongly typed");
